@@ -99,7 +99,3 @@ npm run dev
 ## 📜 **License**
 
 This project is created for educational purposes.
-
----
-
-I
